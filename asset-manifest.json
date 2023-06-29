@@ -1,19 +1,19 @@
 {
-  "files": {
-    "main.css": "/nutrition-build/static/css/main.16074876.css",
-    "main.js": "/nutrition-build/static/js/main.ee77ac75.js",
-    "static/js/787.3c78702f.chunk.js": "/nutrition-build/static/js/787.3c78702f.chunk.js",
-    "static/media/cover.jpg": "/nutrition-build/static/media/cover.822ceef5a836e493c602.jpg",
-    "static/media/1.png": "/nutrition-build/static/media/1.466cc81c19f18adfa675.png",
-    "static/media/unicef-logo.png": "/nutrition-build/static/media/unicef-logo.0b7866341ce1b77c17d9.png",
-    "static/media/map.webp": "/nutrition-build/static/media/map.1831fa4bb28069552786.webp",
-    "index.html": "/nutrition-build/index.html",
-    "main.16074876.css.map": "/nutrition-build/static/css/main.16074876.css.map",
-    "main.ee77ac75.js.map": "/nutrition-build/static/js/main.ee77ac75.js.map",
-    "787.3c78702f.chunk.js.map": "/nutrition-build/static/js/787.3c78702f.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.16074876.css",
-    "static/js/main.ee77ac75.js"
-  ]
+	"files": {
+		"main.css": "/nutrition-build/static/css/main.16074876.css",
+		"main.js": "/nutrition-build/static/js/main.ee77ac75.js",
+		"static/js/787.3c78702f.chunk.js": "/nutrition-build/static/js/787.3c78702f.chunk.js",
+		"static/media/cover.jpg": "/nutrition-build/static/media/cover.822ceef5a836e493c602.jpg",
+		"static/media/1.png": "/nutrition-build/static/media/1.466cc81c19f18adfa675.png",
+		"static/media/unicef-logo.png": "/nutrition-build/static/media/unicef-logo.0b7866341ce1b77c17d9.png",
+		"static/media/map.webp": "/nutrition-build/static/media/map.1831fa4bb28069552786.webp",
+		"index.html": "/nutrition-build/index.html",
+		"main.16074876.css.map": "/nutrition-build/static/css/main.16074876.css.map",
+		"main.ee77ac75.js.map": "/nutrition-build/static/js/main.ee77ac75.js.map",
+		"787.3c78702f.chunk.js.map": "/nutrition-build/static/js/787.3c78702f.chunk.js.map"
+	},
+	"entrypoints": [
+		"static/css/main.16074876.css",
+		"static/js/main.ee77ac75.js"
+	]
 }
